@@ -1,0 +1,8 @@
+{
+  "name": "Meteo_Youssfi_Moussa_Ndiaye",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
